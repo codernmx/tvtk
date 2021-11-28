@@ -1,13 +1,5 @@
 #!/d:\\learn_tvtk\\chapter python3.7
 # -*- coding: utf-8 -*-
-# software: sublimeapter1_1.py
-# name: chapter1_1.py
-# date: 2020.05.12
-# website: https://www.icourse163.org/course/BIT-1001871001
-
-# 使用python3.6的环境，一直发生错误，选择使用python3.7，错误被解决
-
-__author__="ddw20191222"
 
 from tvtk.api import tvtk
 from tvtk.tools import ivtk
